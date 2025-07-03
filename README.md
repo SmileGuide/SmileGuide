@@ -29,3 +29,5 @@ Currently honing production skills and exploring digital music production.
 ✨ 
 Always happy to meet fellow creators, developers, and music enthusiasts.  
 Open to collaborations and friendly chats about tech & tunes.
+
+<img src="https://count.getloli.com/@SmileGuide?name=SmileGuide&theme=original-old&padding=5&offset=0&align=top&scale=1&pixelated=1&darkmode=auto">
