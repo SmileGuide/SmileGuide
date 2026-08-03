@@ -1,21 +1,23 @@
-<!--
-**SmileGuide/SmileGuide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Jukai Sarai / 樹海サラヰ
 
-Here are some ideas to get you started:
+<img
+  src="https://count.getloli.com/@jukaisr?name=jukaisr&theme=original-old&padding=5&offset=0&align=top&scale=1&pixelated=1&darkmode=auto"
+  alt="visitor counter"
+>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+> Twilight descends in woodlands.
 
+An independent creator.
 
-I'm Karlukle, aka Jukai Sarai(As a vocaloid pen name). Starting coding in 12, I have enthusiasm for creating something novel. Keen on music, I love the Voclaoid community and I'm working hard on how to make music.  
+I compose Vocaloid music, write stories, take photographs, and build small things for the web.
 
-Glad to make friends with you.-->
-## Hi there 👋 Jukai Sarai
+## In progress
 
-<img src="https://count.getloli.com/@SmileGuide?name=SmileGuide&theme=original-old&padding=5&offset=0&align=top&scale=1&pixelated=1&darkmode=auto">
+- Vocaloid music
+- Maintaining [jukai.site](https://jukai.site)
+- Web experiments
+- A quiet journey through an empty world
+
+## Find me
+
+[Website](https://jukai.site) · [Email](mailto:sarai@jukai.site)
