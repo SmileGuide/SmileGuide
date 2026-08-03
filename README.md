@@ -1,6 +1,6 @@
 # Jukai Sarai / 樹海サラヰ
 
-<img src="https://count.getloli.com/@jukaisr?name=jukaisr&theme=original-old&padding=5&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="visitor counter">
+<img src="https://count.getloli.com/@jukaisr?name=jukaisr&theme=original-new&padding=5&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="visitor counter">
 
 > Twilight descends in woodlands.
 
